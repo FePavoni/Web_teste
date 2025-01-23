@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    height: 100vh;
+    box-sizing: border-box;
+}
+div{
+    color: white;
+}
+.responsivo-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10%;
+}
+img{
+    border-color: aliceblue;
+}
